@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/reference/fluidsynth.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/reference/fluidsynth_settings.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fluidsynth/reference/soundfonts.html</loc>
+  </url>
+</urlset>

@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2c7e4fcb9f8b1e7ec0944ced982ff33d1faecb88",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-02-20 13:55:17",
+    "files": 2,
+    "merge": false,
+    "message": "Use R_NO_REMAP on all platforms\n"
+  },
+  "repo": "https://github.com/ropensci/fluidsynth",
+  "pkg": "fluidsynth"
+}
