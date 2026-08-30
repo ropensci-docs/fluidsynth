@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4d2e64f413fa54371de010c2e7e21f0cd3617375",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-06-11T11:49:15Z",
+    "files": 1,
+    "merge": false,
+    "message": "Try suppressing pipewire too\n"
+  },
+  "repo": "https://github.com/ropensci/fluidsynth",
+  "pkg": "fluidsynth",
+  "time": "2026-08-30T07:35:05Z"
+}
