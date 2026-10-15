@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8cbcededd1cda0fc463585319432c8b09db2945f",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-09-15T13:31:52Z",
+    "files": 2,
+    "merge": false,
+    "message": "Bump\n"
+  },
+  "repo": "https://github.com/ropensci/fluidsynth",
+  "pkg": "fluidsynth",
+  "time": "2026-10-15T11:02:08Z"
+}
